@@ -18,4 +18,4 @@
 ## Hit the Star! ⭐
 ***If you are planning to use this repo for learning, please hit the star. Thanks!***
 
-#### Author by [Harshhaa Reddy](https://github.com/DevCloudNinjas)
+#### Author by [DevCloud Ninjas](https://github.com/DevCloudNinjas)
